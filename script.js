@@ -50,5 +50,4 @@ addToList.addEventListener('click', function(){
 	}
 	document.querySelector('#toDoInput').value = '';
 	closeAdder()
-	listItemRemover()
 })
